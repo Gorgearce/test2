@@ -1,0 +1,118 @@
+.jumbotron {
+	margin: 50px 170px 50px 170px;
+	padding-left: 20px;
+	padding-right: 10px;
+	background-image: url(images/classroom.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+.logo {
+	max-height: 170%;
+	max-width: 170%;
+	padding-bottom: 10px;
+}
+.links {
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	max-width: 50px;
+	max-height: 50px;
+}
+.page-header {
+	text-align: center;
+}
+.footer {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+.background-1 {
+	background-color: #F7C600;
+	color: #333333;
+	font-weight: bold;
+	padding-top: 15px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+#resources {
+	padding-top: 15px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#lax {
+	height: 250px;
+	width: 430px;
+	padding-bottom: 40px;
+}
+#bugs {
+	text-align: center;
+}
+.video {
+	position: relative;
+    margin: 0 auto;
+    display: block;
+}
+.videotwo {
+	position: relative;
+    margin: 0 auto;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 20px;
+   }
+.background-2 {
+	padding-top: 30px;
+}
+.divide {
+	max-width: 900px;
+	padding: 20px 20px 20px 20px;
+	margin: 0 auto;
+	display: block;
+}
+.background-3 {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #003399;
+	color: white;
+}
+.col-sm-4 {
+	text-align: center;
+	padding-top: 40px;
+}
+.modules {
+	height: 200px;
+	width: 300px;
+	opacity: 0.8;
+}
+.square-one {
+	margin: 20px 60px 20px 60px;
+	padding: 20px 20px 20px 20px;
+	background-color: #003399;
+	color: white;
+}
+.square-two {
+	margin: 5px 60px 20px 60px;
+	padding: 20px 20px 20px 20px;
+	background-color: #F7C600;
+	color: white;
+}
+#mqa {
+	color: white;
+	text-align: center;
+	padding-bottom: 20px;
+}
+.row {
+	padding-left: 90px;
+	padding-right: 90px;
+	padding-top: 40px;
+}
+.blue {
+	color: #003399;
+}
+#corporate-partners {
+	padding-left: 20px;
+}
+.cp {
+	height: 100px;
+	width: 100px;
+}
